@@ -1,0 +1,8 @@
+# Everything we needed in production environment
+
+Flask
+Flask-Bootstrap
+Flask-Login
+pysaml2
+Jinja2
+requests
